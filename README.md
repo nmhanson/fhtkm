@@ -16,7 +16,7 @@ remember the horsey moves in an L shape.
 
 # Goal of the game:
 Ben Finegold can explain it better: https://www.youtube.com/watch?v=SrQlpY_eGYU
-Reach every square (in order) by moving the knight as fast as possible with as few moves as possible. The order is left-right, top-bottom.
+Reach every square (in order) by moving the knight as fast as possible with as few moves as possible. The order is right-left, top-bottom.
 You may not move to a square if it is
 1. Attacked by the Queen in the center.
 2. Occupied by the Queen in the center.
